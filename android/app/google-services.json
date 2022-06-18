@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "682737675680",
+    "project_id": "pamobiletim3",
+    "storage_bucket": "pamobiletim3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682737675680:android:9c19777944d1f7e3fd88c5",
+        "android_client_info": {
+          "package_name": "com.example.pamob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682737675680-a17rl18aeu1ks08s9oa4n2cfigdjncns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfw1aiIadYRLlyLl8TCKEO_k3qQDbF468"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682737675680-a17rl18aeu1ks08s9oa4n2cfigdjncns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
